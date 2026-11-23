@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/*
+  Vos tokens de design ici, avec @theme (couleurs, polices de style-guide.md).
+  Exemple : @theme { --color-purple-950: hsl(292, 42%, 14%); }
+  → génère bg-purple-950, text-purple-950…
+  Polices fournies : /assets/fonts (Work Sans)
+*/
