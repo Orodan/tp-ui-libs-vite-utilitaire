@@ -56,6 +56,14 @@ Documentation officielle : <https://tailwindcss.com/docs>
 
 - Un seul panneau ouvert à la fois.
 
+### Défis, si vous avez fini
+
+À faire dans l'ordre : chaque défi s'appuie sur le précédent.
+
+1. **Aux couleurs de l'IMT** : appliquez la charte IMT à votre accordéon (bleu IMT `#00B8DE`, bleu foncé `#14223C`, gris `#EDF3F4`, police Arial). Le résultat doit rester accessible.
+2. **Une charte modifiable en direct** : ajoutez à la page un panneau pour changer la charte en direct (couleurs, police). Les choix sont conservés au rechargement de la page (`localStorage`).
+3. **Exporter les tokens** : un bouton télécharge la charte en cours sous forme de fichier `tokens.css`, réutilisable dans le projet.
+
 ## La restitution
 
 3 à 4 minutes par groupe :
