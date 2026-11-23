@@ -10,7 +10,7 @@ Il sert de **secours** : votre enseignant vous le donne si l'installation de vot
 
 ## Démarrer
 
-Prérequis : Node.js 22 ou 24 (versions LTS), npm et git.
+Prérequis : Node.js 26 (version LTS), npm et git.
 
 ```bash
 git clone https://github.com/Orodan/tp-ui-libs-vite-utilitaire
